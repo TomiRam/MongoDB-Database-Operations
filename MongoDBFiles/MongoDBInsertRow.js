@@ -4,7 +4,7 @@ db.posts.insert ({
 	category: 'News'
 	tags: ['news', 'events'],
 	user:{
-		name: 'John Doe'
+		name: 'John Doe',
 		status: 'Author'
 	},
 	date: Date()
